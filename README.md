@@ -1,4 +1,4 @@
-**Link :**https://raoipl.ccbp.tech
+Link : https://raoipl.ccbp.tech
 
 In this project, let's build an **IPL Dashboard App** by applying the concepts we have learned till now.
 
